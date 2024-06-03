@@ -4,7 +4,7 @@
 This project aims to build a classification model to accurately detect fraudulent credit card transactions, thereby reducing financial losses and improving security. The model is trained on the Credit Card Fraud Detection dataset from Kaggle, which contains simulated credit card transactions labeled as legitimate or fraudulent.
 
 
-## Table of Contents
+## Table of Content
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
